@@ -6,17 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Writing+Go+backend+services;Building+AI-friendly+dev+tools;Keeping+%E4%B8%8A%E7%8F%AD%E7%89%9B%E9%A9%AC+healthy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E6%8A%8A%E5%A4%8D%E6%9D%82%E7%9A%84%E4%BA%8B%E6%83%85%E5%8F%98%E7%AE%80%E5%8D%95%E6%89%8D%E6%98%AF%E6%9C%AC%E4%BA%8B%3B%E9%87%8D%E5%BA%A6%20AI%20%E5%8D%8F%E4%BD%9C%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E8%80%85))](https://git.io/typing-svg)
 
 </div>
-
-## 👨‍💻 关于我
-
-- 🏠 坐标长沙，远程工作者
-- 🛠 主力语言 Go，喜欢造提效小工具
-- 🤖 重度 AI 协作开发实践者（opencode / Claude Code 玩家）
-- 🧪 相信好的测试工具应该「不起服务、不写脚本」
-- 📦 也在 [@ossdao-org](https://github.com/ossdao-org) 折腾开源
 
 ## 🚀 项目
 
@@ -26,46 +18,16 @@
 | [health-tool](https://github.com/hosea3000/health-tool) | 健康提醒工具，上班牛马专用 |
 | [windows-tool](https://github.com/hosea3000/windows-tool) | 一键关闭 Windows 自动更新 / 一键加小鹤双拼 |
 
-## 🛠 技术栈
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Coding-8A2BE2?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
 ## 📊 数据
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hosea3000&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosea3000&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hosea3000&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hosea3000&theme=tokyo-night&hide_border=true" alt="activity" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hosea3000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophy" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosea3000/hosea3000/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosea3000/hosea3000/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/hosea3000/hosea3000/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
 
