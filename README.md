@@ -14,9 +14,9 @@
 
 | 项目 | 说明 |
 | --- | --- |
-| [apitest](https://github.com/hosea3000/apitest) | AI 友好的场景化接口测试工具：YAML 定义场景，按步骤调用真实接口并断言 |
+| [workbuddy-checkin](https://github.com/hosea3000/workbuddy-checkin) | CodeBuddy 多账号自动签到：常驻托盘每日巡检，开机自动补签，数据只存本机 |
 | [health-tool](https://github.com/hosea3000/health-tool) | 健康提醒工具，上班牛马专用 |
-| [windows-tool](https://github.com/hosea3000/windows-tool) | 一键关闭 Windows 自动更新 / 一键加小鹤双拼 |
+| [apitest](https://github.com/hosea3000/apitest) | AI 友好的场景化接口测试工具：YAML 定义场景，按步骤调用真实接口并断言 |
 
 
 </div>
